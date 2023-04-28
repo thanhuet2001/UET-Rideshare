@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#000000</color>
-    <color name="link_blue">#FF5722</color>
-    <color name="color_primary">#FF5722</color>
-    <color name="color_primary_dark">#FF6E41</color>
-    <color name="color_accent">#D81B60</color>
+    <color name="link_blue">#bcc4bf</color>
+    <color name="color_primary">#a0a3a1</color>
+    <color name="color_primary_dark">#777a78</color>
+    <color name="color_accent">#1d1f1d</color>
     <color name="white">#FFFFFF</color>
     <color name="grey">#bfbfbf</color>
     <color name="light_white">#FAFAFA</color>
@@ -14,7 +14,7 @@
     <color name="theme">#00c59a</color>
     <color name="primary">#262938</color>
     <color name="primary_dark">#181A24</color>
-    <color name="accent">#FF4881</color>
+    <color name="accent">#3b3d3c</color>
     <color name="transparent_white">#cccccc</color>
     <color name="pastel_green">#2BC38A</color>
     <color name="name_heading">#323541</color>
@@ -28,17 +28,17 @@
     <color name="rating_scale">#F7C600</color>
     <color name="green">#9CC93A</color>
     <color name="transparent">#00000000</color>
-    <color name="pink">#ED1A57</color>
-    <color name="pink_dark">#ED1A57</color>
+    <color name="pink">#faebeb</color>
+    <color name="pink_dark">#faebeb</color>
     <color name="base_release_color">#212121</color>
     <color name="base_press_color">#FAFAFA</color>
     <color name="ball_release_color">#9E9E9E</color>
     <color name="blue">#27B5FE</color>
     <color name="light_background">#F2FAFD</color>
     <color name="light_black">#595959</color>
-    <color name="toolbar">#40CF7F</color>
+    <color name="toolbar">#757272</color>
     <color name="red">#fc0000</color>
     <color name="background_register">#EAEAEA</color>
     <color name="background_icon">#838383</color>
-    <color name="background_float_action_button">#FF5722</color>
+    <color name="background_float_action_button">#262968</color>
 </resources>

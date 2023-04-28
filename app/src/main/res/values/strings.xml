@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Carpool</string>
+    <string name="app_name">VNU Shareride</string>
 
     <string name="fragment" translatable="false">Fragment</string>
 
@@ -276,7 +276,10 @@
     <string name="intent_current_latitue" translatable="false">currentLatitue</string>
     <string name="intent_current_long_titude">currentLongtitude</string>
     <string name="latlng" translatable="false">LatLng</string>
-    <string name="google_map_api" translatable="false">AIzaSyAp6Jn3nO1E6W-4-cmp8Uwo5Bnt6JXety0</string>
+    <!-- AIzaSyDtXcYCifRT4JNxo-GUfHZVuhda-2RmZ5g
+        AIzaSyBh2hdEC2W5VL2_3iS2OaOSkVpjmX9HgjM
+        AIzaSyDBjx9P3Dgm2SPXo7ssZkXvp2w3IkEShuo -->
+    <string name="google_map_api" translatable="false">AIzaSyDBjx9P3Dgm2SPXo7ssZkXvp2w3IkEShuo</string>
     <string name="intent_gender">sameGender</string>
     <string name="intent_date">DATE</string>
     <string name="all_fields">All fields must be filled in</string>
